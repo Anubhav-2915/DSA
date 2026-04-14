@@ -9,6 +9,9 @@ This repository contains my Data Structures and Algorithms practice.
 - Arrays
 - vector
 - sorting
+- strings
+- hashmaps
+- recursion
 
 
 ## Platforms
